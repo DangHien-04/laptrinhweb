@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testconflict cua main
+=======
+testconflict.txt cua conflict
+>>>>>>> test_conflict
